@@ -8,8 +8,14 @@ The study primarily utilizes the TranStats dataset from [the US Bureau of Transp
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%25dd32.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) [![](https://img.shields.io/badge/Contextily-D83B01?style=for-the-badge)](https://contextily.readthedocs.io/en/latest/) [![](https://img.shields.io/badge/geopandas-74aa9c?style=for-the-badge)](https://geopandas.org/en/stable/) [![](https://img.shields.io/badge/geopy-47A141?style=for-the-badge)](https://geopy.readthedocs.io/en/stable/)
 
 
-### Analysis
-
-Providing flights at scheduled time are crucial to improve customer experience. Most airlines are punctual, with median arrival times close to schedule and their interquartile ranges are within ±10 minutes (Figure 1). However, low-cost carriers such as JetBlue, Frontier, and Spirit showed higher delay tendencies. The primary factors contributing to delays across all airlines were carrier delays and late aircraft (Figure 2). American Airlines demonstrated the longest average delay time.  Delta, SkyWest, and Hawaiian airlines showing a higher proportion of carrier delays, while SkyWest experienced increased weather-related delays. 
+### Analysis plots (excerpt)
 
 ![figure-1](figures/figure-1.png)
+![figure-2](figures/figure-2.png)
+![figure-3](figures/figure-3.png)
+![figure-6](figures/figure-6.png)
+![figure-7](figures/figure-7.png)
+
+
+
+
